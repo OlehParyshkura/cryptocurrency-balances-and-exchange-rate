@@ -1,0 +1,1 @@
+GET http://localhost:3000/exchange-rates?cryptocurrencies=XBT,ETH&fiatCurrencies=USD,EUR,CAD,JPY,GBP,CHF,AUD
